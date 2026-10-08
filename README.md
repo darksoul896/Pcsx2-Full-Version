@@ -237,4 +237,4 @@ This repository serves as the official landing page for PCSX2. The software is d
 **Get the most recent version of PCSX2 today!**
 
 ---
-**Last updated:** 2026-10-07 23:28:31 UTC
+**Last updated:** 2026-10-08 04:54:32 UTC
